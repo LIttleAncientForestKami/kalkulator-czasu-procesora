@@ -16,4 +16,16 @@ Tu opiszemy implementację.
 ### Diagramy
 A tu wstawimy diagramy UML.
 
+Tutaj opis algorytmów
+=====================
+
+Wybrałem powyższe algorytmy ze względu na ich rozpowszechnienie
+
+Kto pierwszy ten lepszy
+----------------------
+
+
+Drugi
+-----
+
 
